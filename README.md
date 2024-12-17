@@ -1,2 +1,2 @@
 # Studybud
-Mvc Project
+Mvc Django Project
